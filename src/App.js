@@ -14,6 +14,7 @@ function App() {
 			<div className='overlay'>
 				<h1>The Mist</h1>
 				<span>man life</span>
+
 			</div>
 			{/*  */}
 
